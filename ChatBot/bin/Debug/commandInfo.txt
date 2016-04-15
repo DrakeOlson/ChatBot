@@ -1,0 +1,12 @@
+# Please structure the following commands in this format EXACTLY or commands will not run!
+# This file needs to be this way because the bot will correctly parse your commands so
+# that they will run correctly!
+# Format: (Without the # to the left! "# " are used for commenting!)
+# NOTE: Please refrain from using "~" in effects and commands! It will break the bot!
+# NOTE: Keep effects and commands on one line! It will break the bot!
+# Command~!hello
+# Effect~ What's up
+Command~!hello
+Effect~What's up
+Command~!test
+Effect~Hello viewers!
